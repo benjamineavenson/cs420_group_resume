@@ -5,5 +5,5 @@ check the top of main.tex for the packages used
 
 [package tutorial](https://www.latex-tutorial.com/tutorials/packages/)
 
-## Known Issues
+### Known Issues
 Warning about font
